@@ -1,0 +1,14 @@
+[2019-01-10 22:46:24] Executing startup tasks
+[2019-01-10 22:46:24] Product self.product.version
+[2019-01-10 22:46:24] Bundle org.eclipse.oomph.setup 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2019-01-10 22:46:24] Bundle org.eclipse.oomph.setup.core 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2019-01-10 22:46:24] Bundle org.eclipse.oomph.setup.p2 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2019-01-10 22:46:24] Performing Preference /instance/com.android.ide.eclipse.adt/com.android.ide.eclipse.adt.sdk = F:\Eclipse-java\sdk
+[2019-01-10 22:46:25] 
+[2019-01-10 22:48:21] Executing startup tasks
+[2019-01-10 22:48:21] Product self.product.version
+[2019-01-10 22:48:21] Bundle org.eclipse.oomph.setup 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2019-01-10 22:48:21] Bundle org.eclipse.oomph.setup.core 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2019-01-10 22:48:21] Bundle org.eclipse.oomph.setup.p2 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2019-01-10 22:48:21] Performing Preference /instance/com.android.ide.eclipse.adt/com.android.ide.eclipse.adt.sdk = D:\Eclipse-java\sdk
+[2019-01-10 22:48:21] 

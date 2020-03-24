@@ -1,0 +1,1 @@
+path=D:\\eclipse-javadingjiao\\eclipse\\dropins\\svn_plugin
